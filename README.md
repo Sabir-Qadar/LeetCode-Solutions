@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## Simulation
 |  |
 | ------- |
