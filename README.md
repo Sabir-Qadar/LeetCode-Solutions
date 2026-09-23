@@ -24,16 +24,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Sabir-Qadar/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 ## Simulation
